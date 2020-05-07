@@ -46,12 +46,6 @@ permalink: /strategy-call/
 
 <p><span class="quote"></span><br>
 <span class="author"></span></p>
-
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
-
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
 </div>
 <hr>
 
