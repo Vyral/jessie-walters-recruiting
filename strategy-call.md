@@ -40,6 +40,10 @@ permalink: /strategy-call/
 <div class="qanda">
 <p class="section-title">Here’s what a few agents say about working with me…</p>
 
+<p><strong><em>"Thank you Jessie for the Covid-19 training you offered it was an eye opener to me. I will definitely implement this training immediately. Not only did you give some good advice on how to stay safe from Covid-19 you also did some roll play with me on how to talk to a possible client who is worried about buying a home because of the future of the economy and how to approach them with out being aggressive. I left the training class with lots of Confidence,I will definitely be attending more of your training, thank you Jessie!!"</em></strong></p>
+
+<p><br/><strong><em>"Mr. Walters I recently attended your Covid-19 training. The training was very informative and had pertinent scenarios that is currently happening in the real estate industry. The explanation and breakdown of the different rejections and ideas of how to work through them were detailed and applicable. Thank you for this training, it was very helpful."</em></strong></p>
+
 <p><span class="quote"></span><br>
 <span class="author"></span></p>
 
