@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/04-29-walters-youtube.jpg
-youtube_code: Qlg7ClSqr8o
+youtube_code: aHNIhP9l-LQ
 ---
 
 {% include youtube.html %}
