@@ -18,7 +18,9 @@ youtube_code: 9_OxrQtvxqk
 
 {% include youtube.html %}
 
-When should you hire your first assistant in your real estate business? When are you ready?
+<center><em>I’m sharing when to hire an assistant to help with your business.</em></center>
+
+<br>When should you hire your first assistant in your real estate business? When are you ready?
 
 **If you’re consistently selling at least three homes every month, I believe that’s the time when you should invest in an assistant** because there are so many things that take place during a real estate transaction that are not dollar producing. As a real estate agent, you need to focus on net-producing activities such as networking, lead generation and conversion, listing appointments, and showings. Delegating the other tasks to an assistant will free up your time to invest in other activities. In our business, we’ve hired licensed coordinators to handle transactions so all our agents can focus on other tasks.
 
