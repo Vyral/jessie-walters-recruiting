@@ -18,7 +18,7 @@ youtube_code: 9_OxrQtvxqk
 
 {% include youtube.html %}
 
-<center><em>I’m sharing when to hire an assistant to help with your business.</em></center>
+<center><em>I&rsquo;m sharing when to hire an assistant to help with your business.</em></center>
 
 <br>When should you hire your first assistant in your real estate business? When are you ready?
 
