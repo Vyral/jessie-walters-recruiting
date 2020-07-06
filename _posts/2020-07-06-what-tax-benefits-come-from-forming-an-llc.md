@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Tax Benefits Come From Forming an LLC?
-date: 2020-05-13 00:00:00
+date: 2020-07-06 00:00:00
 tags:
   - Transaction Management
 excerpt: Setting up an LLC is one easy way to catch a little break come tax time.
