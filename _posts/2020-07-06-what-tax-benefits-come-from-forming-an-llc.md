@@ -5,7 +5,8 @@ date: 2020-07-06 00:00:00
 tags:
   - Transaction Management
 excerpt: Setting up an LLC is one easy way to catch a little break come tax time.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jessie+Walters/2020/What+Tax+Benefits+Come+From+Forming+an+LLC_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
