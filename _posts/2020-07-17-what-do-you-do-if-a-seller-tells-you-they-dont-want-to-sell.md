@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If a seller tells you they don’t want to sell because of the COVID-19
   pandemic, here’s what to do.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jessie+Walters/2020/What+Do+You+Do+If+a+Seller+Tells+You+They+Dont+Want+to+Sell_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
