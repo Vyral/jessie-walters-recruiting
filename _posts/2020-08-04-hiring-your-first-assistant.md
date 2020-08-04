@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hiring Your First Assistant
-date: 2020-05-27 00:00:00
+date: 2020-08-04 00:00:00
 tags:
   - Transaction Management
 excerpt: I’m sharing when to hire an assistant to help with your business.
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/05-11-walters-youtube.jpg
-youtube_code: 9_OxrQtvxqk
+youtube_code: 38HRTB_0n34
 ---
 
 {% include youtube.html %}
