@@ -5,7 +5,8 @@ date: 2020-08-04 00:00:00
 tags:
   - Transaction Management
 excerpt: I’m sharing when to hire an assistant to help with your business.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jessie+Walters/2020/Hiring+Your+First+Assistant.mp4
 pullquote: >-
   We’ve hired licensed coordinators to handle transactions so all our agents can
   focus on other tasks.
