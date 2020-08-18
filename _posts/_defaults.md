@@ -13,5 +13,11 @@ youtube_alternate_image:
 youtube_code:
 ---
 {% include youtube.html %}
-{% include full-post-cta.html %}
+
+<center><em>EXCERPT.</em></center>
+
+<br>ARTICLE
+
 {% include pullquote.html %}
+
+{% include full-post-cta.html %}
