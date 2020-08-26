@@ -6,7 +6,8 @@ tags:
   - Lead Generation
   - Lead Conversion
 excerpt: When is the best time to prospect for buyers and sellers?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jessie+Walters/2020/When+Should+You+Do+Prospecting_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
