@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Want to Make a Change?
-date: 2020-05-20 00:00:00
+date: 2020-09-01 00:00:00
 tags:
   - Transaction Management
 excerpt: 'If you’re looking to make a career change, check out our team.'
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/05-12-walters-youtube.jpg
-youtube_code: QsShmJQC2JY
+youtube_code: WzNdf5j10aM
 ---
 
 {% include youtube.html %}
