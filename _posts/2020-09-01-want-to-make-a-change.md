@@ -5,7 +5,8 @@ date: 2020-09-01 00:00:00
 tags:
   - Transaction Management
 excerpt: 'If you’re looking to make a career change, check out our team.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jessie+Walters/2020/Want+to+Make+a+Change_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
