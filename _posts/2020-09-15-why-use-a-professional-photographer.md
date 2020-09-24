@@ -6,7 +6,8 @@ tags:
   - Listing Presentation
   - Lead Generation
 excerpt: This is why you should hire a professional photographer for listings.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jessie+Walters/2020/Why+Use+a+Professional+Photographer_.mp4
 pullquote: Do not take your own photos!
 enclosure_type: video/mp4
 enclosure_time:
