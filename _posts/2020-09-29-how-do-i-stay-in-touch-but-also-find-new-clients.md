@@ -6,7 +6,9 @@ tags:
   - Lead Generation
   - Lead Conversion
   - Transaction Management
-excerpt: Three steps to staying in touch with clients while contacting new ones.
+excerpt: >-
+  These are three steps to staying in touch with clients while contacting new
+  ones.
 enclosure:
 pullquote: CRMs filter all your leads into one place.
 enclosure_type: video/mp4
@@ -18,7 +20,7 @@ youtube_code: nF7N7LlEPf8
 
 {% include youtube.html %}
 
-<center><em>Three steps to staying in touch with clients while contacting new ones.</em></center>
+<center><em>These are three steps to staying in touch with clients while contacting new ones.</em></center>
 
 <br>How do you stay in touch with past customers, while also having time to reach out to new ones? I’m answering that question in three parts:
 
