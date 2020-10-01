@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Do I Stay in Touch but Also Find New Clients?
+title: How Do I Stay in Touch While Finding New Clients?
 date: 2020-09-29 00:00:00
 tags:
   - Lead Generation
@@ -26,7 +26,7 @@ youtube_code: nF7N7LlEPf8
 
 **2\. Hire a marketing company**. Spend a little money to hire a company like <u><a target="_blank" rel="noopener" href="http://www.getvyral.com/">Vyral Marketing</a></u> that will allow you to send videos to your database. I use Vyral, and they help me send out two videos to my database per month, as well as utilize other marketing strategies.
 
-**3\. Call-to-Actions**. If you’re not ready for much marketing, address your database with call-to-actions through a company like Agent Dominator, which will send out postcards, re-target people on Facebook, and send a monthly newsletter.
+**3\. Call-to-Actions**. If you’re not ready for a lot of marketing, address your database with call-to-actions through a company like Agent Dominator, which will send out postcards, re-target people on Facebook, and send a monthly newsletter.
 
 {% include pullquote.html %}
 
