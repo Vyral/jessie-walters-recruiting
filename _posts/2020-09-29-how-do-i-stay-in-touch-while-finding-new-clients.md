@@ -12,7 +12,7 @@ pullquote: CRMs filter all your leads into one place.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/06-15-walters-youtube.jpg
+youtube_alternate_image: /uploads/06-15-walters-youtube-1.jpg
 youtube_code: nF7N7LlEPf8
 ---
 
