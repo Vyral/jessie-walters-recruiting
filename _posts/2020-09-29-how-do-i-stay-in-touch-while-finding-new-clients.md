@@ -7,7 +7,8 @@ tags:
   - Lead Conversion
   - Transaction Management
 excerpt: "These are three steps to stay\_in touch with clients while contacting new ones."
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jessie+Walters/2020/How+Do+I+Stay+in+Touch+While+Finding+New+Clients_.mp4
 pullquote: CRMs filter all your leads into one place.
 enclosure_type: video/mp4
 enclosure_time:
